@@ -1,0 +1,57 @@
+/* GLOBAL */
+body{
+    background-color: #a6bdb7;
+    
+}
+
+/* NAVBAR */
+nav{
+    width:100%;
+}
+#name, .nav-link{
+    color: turquoise;
+}
+
+/*CONTENT*/
+.container{
+    background-color: #e5f8fa;
+}
+
+.about-me{
+    margin-top: 30px;
+}
+
+
+imgwrapper{
+    width: 100%;
+}
+
+.one{
+    background: url(images/cat.jpg);
+    height: 250px;
+    width: 250px;
+}
+
+.two{
+    background: url(images/cat.jpg);
+    height: 250px;
+    width: 250px;
+}
+
+.three{
+    background: url(images/cat.jpg);
+    height: 250px;
+    width: 250px;
+}
+
+.four{
+    background: url(images/cat.jpg);
+    height: 250px;
+    width: 250px;
+}
+
+.five{
+    background: url(images/cat.jpg);
+    height: 250px;
+    width: 250px;
+}
