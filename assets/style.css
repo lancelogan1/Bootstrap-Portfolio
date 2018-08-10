@@ -7,10 +7,12 @@ body{
 /* NAVBAR */
 nav{
     width:100%;
+    color: turquoise;
 }
 #name, 
-.nav-link, 
-.nav-item{
+#navbarlinks, 
+.nav-item,
+.about{
     color: turquoise;
 }
 
