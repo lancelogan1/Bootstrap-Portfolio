@@ -8,8 +8,14 @@ body{
 nav{
     width:100%;
 }
-#name, .nav-link{
+#name, 
+.nav-link, 
+.nav-item{
     color: turquoise;
+}
+
+#name{
+    font-size: 22px;
 }
 
 /*CONTENT*/
@@ -18,7 +24,13 @@ nav{
 }
 
 .about-me{
-    margin-top: 30px;
+    margin-top: 20px;
+}
+
+#sugar{
+    height: 250px;
+    width: 250px;
+    ima 
 }
 
 
@@ -30,6 +42,18 @@ imgwrapper{
     background: url(images/cat.jpg);
     height: 250px;
     width: 250px;
+    
+}
+
+#wordguess,
+#rpg,
+#trivia,
+#rutgers,
+#rock{
+    width: 250px;
+    text-align: center;
+    
+    
 }
 
 .two{
@@ -54,4 +78,8 @@ imgwrapper{
     background: url(images/cat.jpg);
     height: 250px;
     width: 250px;
+}
+
+.footer{
+    position: static;
 }
