@@ -87,3 +87,9 @@ imgwrapper,
 .footer{
     position: static;
 }
+
+a,
+a:hover{
+    text-decoration: none;
+    color: #5cb5d5;
+}
